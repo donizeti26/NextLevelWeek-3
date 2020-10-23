@@ -1,6 +1,6 @@
-# :computer: Projeto Next Level Week #1
+# :computer: Projeto Next Level Week #3
 Projeto desenvolvido na Next Level Week
-O objetivo é criar uma aplicação web para conectar pessoas a empresas responsaveis  na coleta resíduos específicos.
+O objetivo é criar uma aplicação web para conectar pessoas com locais de estabelecimento que recebia crianças e adolescentes órfãos, ou em situação de abandono;
 
 ## :dart: Stack escolhidas
 * HTML
